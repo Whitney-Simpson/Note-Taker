@@ -25,5 +25,9 @@ As a small business owner
 -npm i
 -node server.js
 ## GitHub Location
+https://github.com/Whitney-Simpson/Note-Taker.git
 
+##Recorded Application
+<iframe src="https://drive.google.com/file/d/1foJy5bo79jB4d95UgScjIFuNBcLUGRNv/preview" width="640" height="480"></iframe>
 ## Deployed Application
+http://localhost:3001/notes
