@@ -21,6 +21,9 @@ As a small business owner
 -WHEN I click on the 'New Note' button in the navigation a the top of the page
 -THEN I am presented with empty fields to enter a new note title and the note's text in the right-hand column and the button dissapears
 
+## Installation Requirements
+-npm i
+-node server.js
 ## GitHub Location
 
 ## Deployed Application
